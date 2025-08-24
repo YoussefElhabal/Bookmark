@@ -5,7 +5,7 @@ A responsive and user-friendly bookmark manager that allows users to save, edit,
 ## 🌐 Live Demo
 
 Check out the live version of the project here:  
-👉 [Bookmark Website Live](youssefelhabal.github.io/Bookmark/)
+👉 [Bookmark Website Live](https://youssefelhabal.github.io/Bookmark/)
 
 ---
 
